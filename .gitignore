@@ -1,0 +1,23 @@
+# Node modules e dependências
+/node_modules
+/vendor
+
+# Arquivos de ambiente e cache
+/.env
+/.env.local
+/.phpunit.result.cache
+
+# Storage e logs
+/storage/*.key
+/storage/debugbar
+/storage/framework
+/storage/logs
+/public/storage
+/public/hot
+
+# Configurações do editor
+/.idea
+/.vscode
+
+# Outros arquivos do Laravel
+.DS_Store
